@@ -2,4 +2,4 @@
 I'm interested in learning more about pictograms, I'm also interested in contributing with design to the open source community so I hope you find it useful for your projects.
 
 *Note: This is a work in progress, I'll be adding more icons every week.*
-![Icons preview](https://s3.amazonaws.com/f.cl.ly/items/1k3h0P28453o0H0G3e3Y/pictogramas.png)
+![Icons preview](https://raw.githubusercontent.com/adrianmg/pictogramas/master/Preview.png)
