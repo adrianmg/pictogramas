@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="26px" height="34px" viewBox="0 0 26 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Sheet cinema</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Sheet-cinema" sketch:type="MSLayerGroup" transform="translate(1.000000, 0.000000)">
+            <rect id="Rectangle-23" stroke="#474747" stroke-width="2" sketch:type="MSShapeGroup" x="0" y="1" width="24" height="32" rx="1"></rect>
+            <g id="Group" transform="translate(5.000000, 12.000000)" sketch:type="MSShapeGroup">
+                <path d="M0,0 L14,0 L14,8 L11,10 L0,10 L0,0 Z" id="Rectangle-45" stroke="#575757" fill="#FFFFFF"></path>
+                <rect id="Rectangle-57" fill="#575757" x="0" y="2" width="13" height="1"></rect>
+                <rect id="Rectangle-58" fill="#575757" x="3" y="1" width="1" height="1"></rect>
+                <rect id="Rectangle-61" fill="#575757" x="5" y="1" width="1" height="1"></rect>
+                <rect id="Rectangle-62" fill="#575757" x="7" y="1" width="1" height="1"></rect>
+                <rect id="Rectangle-64" fill="#575757" x="9" y="1" width="1" height="1"></rect>
+                <rect id="Rectangle-65" fill="#575757" x="11" y="1" width="1" height="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
