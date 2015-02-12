@@ -1,6 +1,15 @@
 <svg width="26" height="25" viewBox="0 0 26 25" xmlns="http://www.w3.org/2000/svg">
     <g fill="none" fill-rule="evenodd">
-        <path d="M20 19h4c.553 0 1-.445 1-.993V1.993C25 1.445 24.552 1 24 1H2c-.553 0-1 .445-1 .993v16.014c0 .548.448.993 1 .993h12.167l5.07 4.346c.425.365.763.21.763-.337V19z" stroke="#474747" stroke-width="2"/>
-        <path d="M12 4h3v7h-3zm0 8h3v3h-3z" stroke="#575757" fill="#fff"/>
+        <g>
+            <path d="M20 19h4c.553 0 1-.445 1-.993V1.993C25 1.445 24.552 1 24 1H2c-.553 0-1 .445-1 .993v16.014c0 .548.448.993 1 .993h12.167l5.07 4.346c.425.365.763.21.763-.337V19z" stroke="#474747" stroke-width="2"/>
+            <g fill="#575757">
+                <path d="M12 4h1v7h-1z"/>
+                <path d="M14 4h1v7h-1z"/>
+                <path d="M12 4h3v1h-3z"/>
+                <path d="M12 10h3v1h-3z"/>
+                <path d="M12 12h3v1h-3v-1zm0 2h3v1h-3v-1z"/>
+                <path d="M14 12h1v3h-1v-3zm-2 0h1v3h-1v-3z"/>
+            </g>
+        </g>
     </g>
 </svg>
