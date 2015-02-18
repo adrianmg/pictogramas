@@ -5,4 +5,4 @@ Formats available: SVG and PNG.
 
 ![Icons preview](https://raw.githubusercontent.com/adrianmg/pictogramas/master/Preview.png)
 
-*Note: This is a work in progress, I'll be adding more icons every week.*
+*Note: work in progress, I'll be adding more icons every week.*
