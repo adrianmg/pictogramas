@@ -2,8 +2,7 @@
     <g transform="translate(1)" fill="none" fill-rule="evenodd">
         <rect stroke="#474747" stroke-width="2" y="1" width="24" height="32" rx="1"/>
         <g fill="#575757">
-            <path d="M15 15h4v1h-4z"/>
-            <path d="M18 15h1v6h-1zM9 19h1v3H9zM9 21h10v1H9zM5 12h10v1H5zM5 18h10v1H5zM5 12h1v7H5zM14 12h1v7h-1z"/>
+            <path d="M15 15h4v1h-4zM18 15h1v6h-1zm-9 4h1v3H9zm0 2h10v1H9zm-4-9h10v1H5zm0 6h10v1H5zm0-6h1v7H5zm9 0h1v7h-1z"/>
         </g>
     </g>
 </svg>

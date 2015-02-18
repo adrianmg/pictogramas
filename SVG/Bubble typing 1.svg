@@ -1,33 +1,20 @@
 <svg width="26" height="26" viewBox="0 0 26 26" xmlns="http://www.w3.org/2000/svg">
     <g fill="none" fill-rule="evenodd">
-        <g>
-            <path d="M20 20h4c.553 0 1-.445 1-.995V1.995C25 1.45 24.552 1 24 1H2c-.553 0-1 .445-1 .995v17.01c0 .544.448.995 1 .995h12.167l5.07 4.346c.425.365.763.21.763-.337V20z" stroke="#474747" stroke-width="2"/>
-            <g fill="#575757">
-                <g>
-                    <path id="Rectangle-142" d="M7 12h2v1H7z"/>
-                    <g id="Rectangle-141-+-Rectangle-143-+-Rectangle-144">
-                        <path id="Rectangle-141" d="M7 9h2v1H7z"/>
-                        <path id="Rectangle-143" d="M6 10h1v2H6z"/>
-                        <path id="Rectangle-144" d="M9 10h1v2H9z"/>
-                    </g>
-                </g>
-                <g>
-                    <path id="Rectangle-142" d="M12 12h2v1h-2z"/>
-                    <g id="Rectangle-141-+-Rectangle-143-+-Rectangle-144">
-                        <path id="Rectangle-141" d="M12 9h2v1h-2z"/>
-                        <path id="Rectangle-143" d="M11 10h1v2h-1z"/>
-                        <path id="Rectangle-144" d="M14 10h1v2h-1z"/>
-                    </g>
-                </g>
-                <g>
-                    <path d="M17 12h2v1h-2z"/>
-                    <g>
-                        <path d="M17 9h2v1h-2z"/>
-                        <path d="M16 10h1v2h-1z"/>
-                        <path d="M19 10h1v2h-1z"/>
-                    </g>
-                </g>
+        <path d="M20 20h4c.553 0 1-.445 1-.995V1.995C25 1.45 24.552 1 24 1H2c-.553 0-1 .445-1 .995v17.01c0 .544.448.995 1 .995h12.167l5.07 4.346c.425.365.763.21.763-.337V20z" stroke="#474747" stroke-width="2"/>
+        <g fill="#575757">
+            <path id="Rectangle-142" d="M7 12h2v1H7z"/>
+            <g id="Rectangle-141-+-Rectangle-143-+-Rectangle-144">
+                <path id="Rectangle-141" d="M7 9h2v1H7z"/>
+                <path id="Rectangle-143" d="M6 10h1v2H6z"/>
+                <path id="Rectangle-144" d="M9 10h1v2H9z"/>
             </g>
+            <path d="M12 12h2v1h-2z"/>
+            <g>
+                <path d="M12 9h2v1h-2z"/>
+                <path d="M11 10h1v2h-1z"/>
+                <path d="M14 10h1v2h-1z"/>
+            </g>
+            <path d="M17 12h2v1h-2zM17 9h2v1h-2zM16 10h1v2h-1zM19 10h1v2h-1z"/>
         </g>
     </g>
 </svg>

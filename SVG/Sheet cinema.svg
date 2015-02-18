@@ -1,8 +1,6 @@
 <svg width="26" height="34" viewBox="0 0 26 34" xmlns="http://www.w3.org/2000/svg">
     <g transform="translate(1)" fill="none" fill-rule="evenodd">
         <rect stroke="#474747" stroke-width="2" y="1" width="24" height="32" rx="1"/>
-        <g fill="#575757">
-            <path d="M5 12h1v10H5zM18 12h1v8h-1zM5 12h14v1H5zM5 21h11v1H5zM18 19h1l-2 3h-1l2-3zM5 14h13v1H5zM8 13h1v1H8zM10 13h1v1h-1zM12 13h1v1h-1zM14 13h1v1h-1zM16 13h1v1h-1z"/>
-        </g>
+        <path d="M5 12h1v10H5zm13 0h1v8h-1zM5 12h14v1H5zm0 9h11v1H5zm13-2h1l-2 3h-1l2-3zM5 14h13v1H5zm3-1h1v1H8zm2 0h1v1h-1zm2 0h1v1h-1zm2 0h1v1h-1zm2 0h1v1h-1z" fill="#575757"/>
     </g>
 </svg>
