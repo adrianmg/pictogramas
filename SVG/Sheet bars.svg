@@ -1,23 +1,8 @@
 <svg width="26" height="34" viewBox="0 0 26 34" xmlns="http://www.w3.org/2000/svg">
-    <g fill="none" fill-rule="evenodd">
-        <g transform="translate(1 1)">
-            <rect stroke="#474747" stroke-width="2" width="24" height="32" rx="1"/>
-            <g fill="#575757">
-                <g>
-                    <path d="M5 11h1v10H5z"/>
-                    <path d="M8 11h1v10H8z"/>
-                    <path d="M5 11h4v1H5z"/>
-                    <path d="M5 20h4v1H5z"/>
-                    <path d="M15 16h4v1h-4z"/>
-                    <path d="M15 20h4v1h-4z"/>
-                    <path d="M15 16h1v5h-1z"/>
-                    <path d="M18 16h1v5h-1z"/>
-                </g>
-                <path d="M10 14h4v1h-4z"/>
-                <path d="M10 20h4v1h-4z"/>
-                <path d="M10 14h1v7h-1z"/>
-                <path d="M13 14h1v7h-1z"/>
-            </g>
+    <g transform="translate(1 1)" fill="none" fill-rule="evenodd">
+        <rect stroke="#474747" stroke-width="2" width="24" height="32" rx="1"/>
+        <g fill="#575757">
+            <path d="M5 11h1v10H5zM8 11h1v10H8zM5 11h4v1H5zM5 20h4v1H5zM15 16h4v1h-4zM15 20h4v1h-4zM15 16h1v5h-1zM18 16h1v5h-1zM10 14h4v1h-4zM10 20h4v1h-4zM10 14h1v7h-1zM13 14h1v7h-1z"/>
         </g>
     </g>
 </svg>
