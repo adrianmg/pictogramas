@@ -1,3 +1,7 @@
 <svg width="26" height="34" viewBox="0 0 26 34" xmlns="http://www.w3.org/2000/svg">
-    <rect width="24" height="32" rx="1" transform="translate(1 1)" stroke="#474747" stroke-width="2" fill="none" fill-rule="evenodd"/>
+    <g fill="none" fill-rule="evenodd">
+        <g transform="translate(1 1)" stroke="#474747" stroke-width="2">
+            <rect width="24" height="32" rx="1"/>
+        </g>
+    </g>
 </svg>

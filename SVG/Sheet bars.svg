@@ -1,6 +1,23 @@
 <svg width="26" height="34" viewBox="0 0 26 34" xmlns="http://www.w3.org/2000/svg">
-    <g transform="translate(1 1)" fill="none" fill-rule="evenodd">
-        <rect stroke="#474747" stroke-width="2" width="24" height="32" rx="1"/>
-        <path d="M5 11h1v10H5zm3 0h1v10H8zm-3 0h4v1H5zm0 9h4v1H5zm10-4h4v1h-4zm0 4h4v1h-4zm0-4h1v5h-1zm3 0h1v5h-1zm-8-2h4v1h-4zm0 6h4v1h-4zm0-6h1v7h-1zm3 0h1v7h-1z" fill="#575757"/>
+    <g fill="none" fill-rule="evenodd">
+        <g transform="translate(1 1)">
+            <rect stroke="#474747" stroke-width="2" width="24" height="32" rx="1"/>
+            <g fill="#575757">
+                <g>
+                    <path d="M5 11h1v10H5z"/>
+                    <path d="M8 11h1v10H8z"/>
+                    <path d="M5 11h4v1H5z"/>
+                    <path d="M5 20h4v1H5z"/>
+                    <path d="M15 16h4v1h-4z"/>
+                    <path d="M15 20h4v1h-4z"/>
+                    <path d="M15 16h1v5h-1z"/>
+                    <path d="M18 16h1v5h-1z"/>
+                </g>
+                <path d="M10 14h4v1h-4z"/>
+                <path d="M10 20h4v1h-4z"/>
+                <path d="M10 14h1v7h-1z"/>
+                <path d="M13 14h1v7h-1z"/>
+            </g>
+        </g>
     </g>
 </svg>

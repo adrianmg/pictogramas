@@ -1,8 +1,33 @@
 <svg width="26" height="26" viewBox="0 0 26 26" xmlns="http://www.w3.org/2000/svg">
     <g fill="none" fill-rule="evenodd">
-        <path d="M20 20h4c.553 0 1-.445 1-.995V1.995C25 1.45 24.552 1 24 1H2c-.553 0-1 .445-1 .995v17.01c0 .544.448.995 1 .995h12.167l5.07 4.346c.425.365.763.21.763-.337V20z" stroke="#474747" stroke-width="2"/>
-        <g fill="#575757">
-            <path d="M7 12h2v1H7zM7 9h2v1H7zM6 10h1v2H6zM9 10h1v2H9zM12 12h2v1h-2zm0-3h2v1h-2zm-1 1h1v2h-1zm3 0h1v2h-1zm3 2h2v1h-2zm0-3h2v1h-2zm-1 1h1v2h-1zm3 0h1v2h-1z"/>
+        <g>
+            <path d="M20 20h4c.553 0 1-.445 1-.995V1.995C25 1.45 24.552 1 24 1H2c-.553 0-1 .445-1 .995v17.01c0 .544.448.995 1 .995h12.167l5.07 4.346c.425.365.763.21.763-.337V20z" stroke="#474747" stroke-width="2"/>
+            <g fill="#575757">
+                <g>
+                    <path id="Rectangle-142" d="M7 11h2v1H7z"/>
+                    <g id="Rectangle-141-+-Rectangle-143-+-Rectangle-144">
+                        <path id="Rectangle-141" d="M7 8h2v1H7z"/>
+                        <path id="Rectangle-143" d="M6 9h1v2H6z"/>
+                        <path id="Rectangle-144" d="M9 9h1v2H9z"/>
+                    </g>
+                </g>
+                <g>
+                    <path id="Rectangle-142" d="M12 11h2v1h-2z"/>
+                    <g id="Rectangle-141-+-Rectangle-143-+-Rectangle-144">
+                        <path id="Rectangle-141" d="M12 8h2v1h-2z"/>
+                        <path id="Rectangle-143" d="M11 9h1v2h-1z"/>
+                        <path id="Rectangle-144" d="M14 9h1v2h-1z"/>
+                    </g>
+                </g>
+                <g>
+                    <path d="M17 11h2v1h-2z"/>
+                    <g>
+                        <path d="M17 8h2v1h-2z"/>
+                        <path d="M16 9h1v2h-1z"/>
+                        <path d="M19 9h1v2h-1z"/>
+                    </g>
+                </g>
+            </g>
         </g>
     </g>
 </svg>
