@@ -2,13 +2,7 @@
     <g fill="none" fill-rule="evenodd">
         <path d="M20 20h4c.553 0 1-.445 1-.995V1.995C25 1.45 24.552 1 24 1H2c-.553 0-1 .445-1 .995v17.01c0 .544.448.995 1 .995h12.167l5.07 4.346c.425.365.763.21.763-.337V20z" stroke="#474747" stroke-width="2"/>
         <g fill="#575757">
-            <path d="M7 12h2v1H7z"/>
-            <g>
-                <path d="M7 9h2v1H7z"/>
-                <path d="M6 10h1v2H6z"/>
-                <path d="M9 10h1v2H9z"/>
-            </g>
-            <path d="M12 12h2v1h-2zM12 9h2v1h-2zM11 10h1v2h-1zM14 10h1v2h-1zM17 12h2v1h-2zm0-3h2v1h-2zm-1 1h1v2h-1zm3 0h1v2h-1z"/>
+            <path d="M7 12h2v1H7zM7 9h2v1H7zM6 10h1v2H6zM9 10h1v2H9zM12 12h2v1h-2zm0-3h2v1h-2zm-1 1h1v2h-1zm3 0h1v2h-1zm3 2h2v1h-2zm0-3h2v1h-2zm-1 1h1v2h-1zm3 0h1v2h-1z"/>
         </g>
     </g>
 </svg>
